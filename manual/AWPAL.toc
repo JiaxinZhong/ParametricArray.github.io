@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Installation}{2}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Demo Scripts and Core Functions}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Direct Integration Method (DIM)}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Audio Sound Field}{2}{subsubsection.2.1.1}%
+\contentsline {paragraph}{\numberline {2.1.1.1}On-Axis}{2}{paragraph.2.1.1.1}%
+\contentsline {subparagraph}{Demo: \lstinline !PalDIM3D_CircSrc_Axis_Demo.m!}{2}{figure.1}%
+\contentsline {subparagraph}{Function: \lstinline !PalDIM3D_CircSrc_Axis.m!}{2}{section*.3}%
+\contentsline {section}{\numberline {3}Known Issues}{3}{section.3}%
+\contentsline {section}{References}{3}{section.3}%
